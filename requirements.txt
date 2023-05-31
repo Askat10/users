@@ -1,0 +1,9 @@
+django
+djangorestframework
+Pillow
+python-decouple
+psycopg2-binary
+drf-yasg
+
+# для фильтрации и поиска
+django-filter
